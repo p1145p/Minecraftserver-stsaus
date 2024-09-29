@@ -13,21 +13,17 @@ window.Config = {
   CountDays: 14,
 
   // 是否显示检测站点的链接
-  ShowLink: true,
+  ShowLink: false,
 
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
-      url: 'https://status.org.cn/'
+      text: '朋の主页',
+      url: 'https://www.mchooray.xyz/'
     },
     {
-      text: 'GitHub',
+      text: '朋服主页',
       url: 'https://github.com/yb/uptime-status'
-    },
-    {
-      text: 'Blog',
-      url: 'https://abo.xyz/'
-    },
+    }
   ],
 };
