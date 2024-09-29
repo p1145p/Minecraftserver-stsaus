@@ -23,7 +23,7 @@ window.Config = {
     },
     {
       text: '朋服主页',
-      url: 'https://github.com/yb/uptime-status'
+      url: 'https://mc.mchooray.xyz/'
     }
   ],
 };
