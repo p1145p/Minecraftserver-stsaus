@@ -1,12 +1,14 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '朋の状态监控',
+  SiteName: '朋の状态页',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'm797677100-9f861708b5f64ed073e12a68'
+    'm797677100-9f861708b5f64ed073e12a68',
+    'm797755684-5392b4ec4acb08e6cb6913e8',
+    'm797755678-79f431bb909bfa401ff9dc4f'
   ],
 
   // 日志天数
