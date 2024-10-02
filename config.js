@@ -21,11 +21,11 @@ window.Config = {
   Navi: [
     {
       text: '朋の主页',
-      url: 'https://www.mchooray.xyz/'
+      url: 'https://www.peng520.xyz/'
     },
     {
       text: '朋服主页',
-      url: 'https://mc.mchooray.xyz/'
+      url: 'https://mc.peng520.xyz/'
     }
   ],
 };
